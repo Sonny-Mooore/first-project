@@ -21,6 +21,15 @@
     justify-content: center;
     color: aliceblue;
 }
+.article{
+    margin-left: 40px;
+    font-size:15px;
+    color: aliceblue;
+    justify-content: center;
+}
+
+
+
 .content{
     display: flex;
     background-color: rgb(23, 0, 117);
@@ -33,6 +42,7 @@
 }
 
 .card_1{
+    margin: 3px;
     display: flex;
     flex-wrap: wrap;
     background-color: black;
